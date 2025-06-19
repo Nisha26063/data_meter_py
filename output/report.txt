@@ -1,0 +1,3 @@
+Mobile Number|4G (MB)|5G (MB)|4G Roaming (MB)|5G Roaming (MB)|Cost ($)
+9000600600|100|200|70|200|103.70
+9000600601|0|0|340|60|51.20

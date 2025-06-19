@@ -1,0 +1,2 @@
+invalid|data|format
+9000600600|TOWER1|1000|2000|No
